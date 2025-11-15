@@ -1,0 +1,7 @@
+{
+  "name": "raven-code-checker-api",
+  "version": "1.0.0",
+  "description": "Backend API لفحص أكواد التفعيل",
+  "main": "api/check-code.js",
+  "license": "MIT"
+}
